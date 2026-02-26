@@ -1,0 +1,23 @@
+export const nameBand = 'PIANODEUSS';
+export const nameSongs = [
+	"RED SWAM", /*1*/
+	"SADNESS AND SORROW", /*2*/
+	"HOWL'S MOVING CASTLE", /*3*/
+	"HOKAGE FUNERAL", /*4*/
+	"SHINZOU WO SASAGEYO", /*5*/
+	"SAYONARA ZETSUBOU SENSEI", /*6*/
+	"UNRAVEL (ACOUSTIC)", /*7*/
+	"SAITAMA'S THEME", /*8*/
+	"HIGURASHI NO NAKU KORO NI", /*9*/
+	"CALL OF SILENCE", /*10*/
+	"FAIRY TAIL", /*11*/
+	"DESPAIR", /*12*/
+	"FLY ME TO THE MOON", /*13*/
+	"A CRUEL ANGEL'S THESIS", /*14*/
+	"SAMIDARE", /*15*/
+	"THE PINK PANTHER THEME", /*16*/
+	"DECISION", /*17*/
+	"LOST MY PIECES", /*18*/
+	"NINDO", /*19*/
+	"GUREN", /*20*/
+]
